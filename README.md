@@ -13,7 +13,7 @@ cuDNN v7.5.0 <br>
 
 Usage
 ---
-Initialize the parameters in `config.py`, including model types, dataset types, learning rate, batch size, etc.<br>
+Initialize the parameters in `start_train.py`, including model types, dataset types, learning rate, batch size, etc.<br>
 Run an experiment with the following command:<br>
 ```python
     python start_train.py
